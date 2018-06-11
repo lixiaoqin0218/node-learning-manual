@@ -29,6 +29,7 @@
   - []事件机制-events
   - []全局对象-global
   - [][模块机制-module](./src/modules/modules.md)
+  - [][HTTP缓存机制-cache](./src/Cache/cache.md)
   - []本地路径处理-path
   - []逐行读取-readline
   - []命令行设计-repl
