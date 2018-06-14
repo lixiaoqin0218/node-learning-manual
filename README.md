@@ -15,7 +15,7 @@
   - []网络地址解析-url
   - []数据加密-crypto
   - []URL查询字符串-querystring
-  - []二进制数据-buffer
+  - [二进制数据-buffer](./src/buffer/buffer.md)
   - []子进程-child_process
   - []进程相关-process
   - []集群-cluster
@@ -43,5 +43,6 @@
   - []Node.js在前端工程化应用
   - []爬虫相关 
   - [构建web应用]()
+  - [handleBars](./src/handlebars/handlebars.md)
 - 程序员相关
   - 学会向程序员一样思考
