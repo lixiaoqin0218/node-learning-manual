@@ -37,12 +37,16 @@
 - 进阶使用
   - [RESTful风格](./src/restful/RESTful.md)
   - 如何使用express
+  - [express的中间件](./src/express/middleware.md)
   - []如何使用koa2
   - []部署运维部分
   - []构建部分 
   - []Node.js在前端工程化应用
   - []爬虫相关 
   - [构建web应用]()
+  - [配置语言YAML]()
+  - [配置语言YAML]()
+  - [Yeoman]()
   - [handleBars](./src/handlebars/handlebars.md)
 - 程序员相关
   - 学会向程序员一样思考
